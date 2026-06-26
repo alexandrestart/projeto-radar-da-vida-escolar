@@ -1,3 +1,40 @@
+Você é um especialista em apresentações de projetos de tecnologia para estudantes do Ensino Médio. 
+ 
+Transforme as informações abaixo em um roteiro de apresentação claro, curto e organizado. 
+ 
+A apresentação deve seguir esta estrutura: 
+1. Contexto 
+2. Problema 
+3. Dados analisados 
+4. Principais insights 
+5. Solução proposta 
+6. Uso de IA 
+7. Impacto 
+8. Próximos passos 
+ 
+Use linguagem simples, objetiva e adequada para uma apresentação escolar. 
+ 
+Não invente dados. 
+Não exagere conclusões. 
+Mantenha a autoria do grupo. 
+ 
+Informações do projeto: 
+[colar aqui o README ou resumo do projeto] 
+
+Depois que a IA gerar uma sugestão, o grupo deve revisar. 
+
+Não é para copiar sem pensar. 
+
+O grupo precisa conferir: 
+
+a IA entendeu o projeto? 
+inventou alguma informação? 
+resumiu demais? 
+deixou algo importante de fora? 
+a linguagem ficou natural? 
+a sequência faz sentido? 
+
+
 # Roteiro da apresentação — Radar da Vida Escolar 
  
 ## Contexto 
